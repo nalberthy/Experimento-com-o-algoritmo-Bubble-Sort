@@ -1,4 +1,3 @@
-# bubble sort 1
 import os
 import re
 import psutil
